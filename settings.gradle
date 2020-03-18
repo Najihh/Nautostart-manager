@@ -1,2 +1,2 @@
-include ':app'
+include ':app', ':autostart'
 rootProject.name='Nautostart'
